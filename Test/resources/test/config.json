@@ -1,0 +1,37 @@
+{
+	"type": "Collection",
+	"properties": {
+		"manufacturer": {
+			"name": "manufacturer",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "manufacturer",
+			"order": 0
+		},
+		"coreNumber": {
+			"name": "coreNumber",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "coreNumber",
+			"order": 1
+		},
+		"threadNumber": {
+			"name": "threadNumber",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "threadNumber",
+			"order": 2
+		},
+		"frequency": {
+			"name": "frequency",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "frequency",
+			"order": 3
+		}
+	}
+}
